@@ -1,9 +1,9 @@
 // Reusable demo content: update this file to adapt the site for another business.
 export const site = {
- name: 'Heritage Gardens & Arboriculture', brandLine: 'Heritage Gardens', brandSubline: '& Arboriculture',
- phone: '+44 7840 034849', phoneHref: 'tel:+447840034849',
- address: '17 Pond Cl, Winchmore Hill, Amersham HP7 0NU, United Kingdom',
- area: 'Amersham, Buckinghamshire', areaSentence: 'Winchmore Hill and Amersham, Buckinghamshire', coverage: 'Amersham and surrounding areas',
+ name: 'Beaconsfield Garden Services', brandLine: 'Beaconsfield Garden', brandSubline: 'Services',
+ phone: '+44 7732 717328', phoneHref: 'tel:+447732717328',
+ address: 'Beaconsfield, Buckinghamshire, UK',
+ area: 'Beaconsfield, Buckinghamshire', areaSentence: 'Beaconsfield, Buckinghamshire', coverage: 'Beaconsfield and surrounding areas',
  logo: '', // Optional local image URL; leave blank for the text wordmark.
  rating: 'TBC', reviewCount: 'TBC',
  heroVideo: '/video/garden-hero.mp4', heroPoster: '/images/hero-poster.webp',
